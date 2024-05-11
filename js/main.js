@@ -1,3 +1,0 @@
-// alert("Worning!!!");
-
-alert(str);
